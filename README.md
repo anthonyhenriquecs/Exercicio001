@@ -1,2 +1,5 @@
 # Exercicio001
-ola mundo em python
+
+# Faça um programa que escreva 'ola mundo' na tela.
+
+print('Ola mundo')
